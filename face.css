@@ -1,0 +1,46 @@
+.btn{
+	background-color: blue;
+	color: #FFF;
+	font-size: 13px;
+	border-color: black;
+}
+#btn{
+	background-color: blue;
+	color: #FFF;
+}
+.login{
+	height: 105px;
+	width: 100%;
+	background-color: #3b5998;
+}
+
+.a{
+	width: 65%;
+	
+color: #FFF;
+float: left;
+
+}
+.b{
+	margin-top: 30px;
+	width: 35%;
+	float: right;
+}
+.a1{
+	width: 50%;
+
+	font-size: 35px;
+	float: left;
+}
+.a2{
+	
+	float: right;
+	padding-left: 100px;
+
+}
+#btn1{
+ background-color: #4CAF50; 
+color: #000000;
+font-size: 24px;
+border-radius: 9px;
+}
